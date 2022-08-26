@@ -1,0 +1,7 @@
+{
+  "name": "ionic-hn-reader",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
