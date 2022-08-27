@@ -1,4 +1,4 @@
-import { Redirect, Route } from 'react-router-dom';
+import { Route } from 'react-router-dom';
 import {
   IonApp,
   IonRouterOutlet,
@@ -42,7 +42,6 @@ const App: React.FC = () => (
         <IonRouterOutlet>
           <Route exact path="/" component={HomePage} />
           <Route exact path="/post/:postId" component={PostDetailsPage} />
-          <Route render={() => <Redirect to="/" />} />
         </IonRouterOutlet>
       </IonReactRouter>
     </IonApp>

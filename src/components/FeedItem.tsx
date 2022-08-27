@@ -29,7 +29,7 @@ export const FeedItem: React.FC<IProps> = ({ postId, readonly }) => {
             </IonAvatar>
             <IonLabel>
                 <h2>{data?.title}</h2>
-                <p onClick={copyUrlToClipboard} style={{ cursor: 'pointer' }}><IonRouterLink target={data?.url ? '_blank' : undefined} href={data?.url ?? `/post/${data?.id}`}>{data?.url}</IonRouterLink>{data?.url}</p>
+                <p onClick={copyUrlToClipboard} style={{ cursor: 'pointer' }}><IonRouterLink target={data?.url ? '_blank' : undefined} href={data?.url ?? `/post/${data?.id}`}>{data?.url}</IonRouterLink></p>
                 <h4>{data?.by} {!!data?.time && dayjs.unix(data?.time).fromNow()} • {data?.score} • {data?.descendants} comments</h4>
             </IonLabel>
         </IonItem>
