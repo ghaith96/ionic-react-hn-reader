@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ionic-react-hn-reader/static/css/main.aad28d0f.css",
-    "main.js": "/ionic-react-hn-reader/static/js/main.371a0221.js",
+    "main.js": "/ionic-react-hn-reader/static/js/main.f38db97f.js",
     "static/js/630.b0bd8844.chunk.js": "/ionic-react-hn-reader/static/js/630.b0bd8844.chunk.js",
     "static/js/738.91966808.chunk.js": "/ionic-react-hn-reader/static/js/738.91966808.chunk.js",
     "static/js/372.a99a6c38.chunk.js": "/ionic-react-hn-reader/static/js/372.a99a6c38.chunk.js",
@@ -15,7 +15,7 @@
     "service-worker.js": "/ionic-react-hn-reader/service-worker.js",
     "index.html": "/ionic-react-hn-reader/index.html",
     "main.aad28d0f.css.map": "/ionic-react-hn-reader/static/css/main.aad28d0f.css.map",
-    "main.371a0221.js.map": "/ionic-react-hn-reader/static/js/main.371a0221.js.map",
+    "main.f38db97f.js.map": "/ionic-react-hn-reader/static/js/main.f38db97f.js.map",
     "630.b0bd8844.chunk.js.map": "/ionic-react-hn-reader/static/js/630.b0bd8844.chunk.js.map",
     "738.91966808.chunk.js.map": "/ionic-react-hn-reader/static/js/738.91966808.chunk.js.map",
     "372.a99a6c38.chunk.js.map": "/ionic-react-hn-reader/static/js/372.a99a6c38.chunk.js.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.aad28d0f.css",
-    "static/js/main.371a0221.js"
+    "static/js/main.f38db97f.js"
   ]
 }
