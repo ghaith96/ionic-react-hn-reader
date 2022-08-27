@@ -2,6 +2,7 @@
   "name": "ionic-hn-reader",
   "version": "0.0.1",
   "private": true,
+  "homepage": "https://ghaith96.github.io/ionic-react-hn-reader/",
   "dependencies": {
     "@capacitor/app": "4.0.1",
     "@capacitor/core": "4.1.0",
